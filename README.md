@@ -1,4 +1,4 @@
-# docker-jdk-12
+# docker-jdk-13
 
 Dockerfile for my
 [arthurpicht/jdk-13](https://cloud.docker.com/u/arthurpicht/repository/docker/arthurpicht/jdk-13)
